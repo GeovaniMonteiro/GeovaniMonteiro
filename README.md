@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, PySpark,SQL**
   
-- 📖 **Study Directory:**  [ESTUDOS (Cursos e Projetos)](https://github.com/GeovaniMonteiro/estudos/blob/b4a72841e918e7e31b4946af3b16b41bd64ab926/README.md)
+- 📖 **Study Directory:**  [ESTUDOS (Cursos e Projetos)](https://github.com/GeovaniMonteiro/estudos/blob/main/README.md)
 
 - 📫 How to reach me **silvageovani33@gmail.com**
 
