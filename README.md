@@ -5,6 +5,8 @@
   
 - 📖 **Study Directory:**  [ESTUDOS (Cursos e Projetos)](https://github.com/GeovaniMonteiro/estudos/blob/main/README.md)
 
+- 💼 **Projetos Formação IFOOD** [Prjetos Ada Vem Ser Tech Ifood - (Aulas, Atividades e Projetos)](https://github.com/GeovaniMonteiro/estudos/tree/main/ada_tech_ifood/Projetos)
+
 - 📫 How to reach me **silvageovani33@gmail.com**
 
 - ⚡ Fun fact **I Love Play Basketball ❤️**
